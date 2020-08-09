@@ -12,6 +12,6 @@ Recent work [1] has utilized Moore-Penrose (MP) inverse in deep convolutional ne
 
 ## Downloads:
 ### Caltech-256
-* Caltech-101 dataset: [Caltech-101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/#Download)
+* Caltech-256 dataset: [Caltech-101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/#Download)
 * Code: [Code-for-Caltech](http://www.vision.caltech.edu/Image_Datasets/Caltech101/#Download)
 
