@@ -8,7 +8,9 @@ Recent work [1] has utilized Moore-Penrose (MP) inverse in deep convolutional ne
 
 ## Learning Structure:
 
-<img src="https://github.com/wandongzhang/Wi-HSNN/blob/master/2.jpg" width="550" height="430" />
+<img src="https://github.com/W1AE/DCNN-FR/blob/master/1.jpg" width="550" height="430" />
+
+<img src="https://github.com/W1AE/DCNN-FR/blob/master/2.jpg" width="550" height="430" />
 
 ## Downloads:
 ### Caltech-256
