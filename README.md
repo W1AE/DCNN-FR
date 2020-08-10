@@ -9,8 +9,10 @@ Recent work [1] has utilized Moore-Penrose (MP) inverse in deep convolutional ne
 ## Learning Structure:
 
 <img src="https://github.com/W1AE/DCNN-FR/blob/master/1.jpg" width="700" height="400" />
+Step 1 - Random learning with SGD. In each epoch, users randomly activate $L_a$ number of convolutional layers, while excluding the rest $L_i$ number of convolutional layers from backward pass. $L_a$ and $L_i$ are determined by a predefined hyperparameter $r_a$.
 
 <img src="https://github.com/W1AE/DCNN-FR/blob/master/2.jpg" width="700" height="400" />
+Step 1 - Random learning with SGD. In each epoch, users randomly activate $L_a$ number of convolutional layers, while excluding the rest $L_i$ number of convolutional layers from backward pass. $L_a$ and $L_i$ are determined by a predefined hyperparameter $r_a$.
 
 ## Downloads:
 ### Caltech-256
