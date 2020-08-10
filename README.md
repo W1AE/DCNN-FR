@@ -9,10 +9,10 @@ Recent work [1] has utilized Moore-Penrose (MP) inverse in deep convolutional ne
 ## Learning Structure:
 
 <img src="https://github.com/W1AE/DCNN-FR/blob/master/1.jpg" width="700" height="400" />
-Figure 1. Step 1 - Random learning with SGD. In each epoch, users randomly activate La number of convolutional layers, while excluding the rest Li number of convolutional layers from backward pass. La and Li are determined by a predefined hyperparameter ra.
+## Figure 1. Step 1 - Random learning with SGD. In each epoch, users randomly activate La number of convolutional layers, while excluding the rest Li number of convolutional layers from backward pass. La and Li are determined by a predefined hyperparameter ra.
 
 <img src="https://github.com/W1AE/DCNN-FR/blob/master/2.jpg" width="700" height="400" />
-Figure 2. Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \eta^{n-1} are obtained by Procedure I, while e^{n-1} and e^{n-2} are received via Procedure II. The details for Procedure I and II can be found from Algorithm 1.
+## Figure 2. Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \eta^{n-1} are obtained by Procedure I, while e^{n-1} and e^{n-2} are received via Procedure II. The details for Procedure I and II can be found from Algorithm 1.
 
 ## Downloads:
 ### Caltech-256
