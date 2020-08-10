@@ -1,4 +1,4 @@
-# Deep Network with Fast Retraining
+# Deep Networks with Fast Retraining
 
 ## Abstract:  
 
