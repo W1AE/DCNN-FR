@@ -14,11 +14,6 @@ Step 1 - Random learning with SGD. In each epoch, users randomly activate La num
 <img src="https://github.com/W1AE/DCNN-FR/blob/master/2.jpg" width="700" height="400" />
 Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \eta^{n-1} are obtained by Procedure I, while e^{n-1} and e^{n-2} are received via Procedure II. The details for Procedure I and II can be found from Algorithm 1.
 
-## Related Works:
-* [1] Wandong Zhang, Q.M.Jonathan Wu, and Yimin Yang. A Width-growth Model with Subnetwork Nodes and Refinement Structure for Representation Learning and Image Classification. *IEEE Transactions on Industrial Informatics*, 2020, [[link](https://ieeexplore.ieee.org/abstract/document/9050859)]
-* [2] Wandong Zhang, Q.M.Jonathan Wu, and Yimin Yang. Multimodal feature reinforcement framework using Moore-Penrose Inverse for big data analysis. *IEEE Transactions on Neural Networks and Learning Systems*, Third round review. [[code](https://github.com/W1AE/B-MSNN)]
-* [3] Wandong Zhang, Q.M.Jonathan Wu, and Yimin Yang. Semi-supervised Manifold Regularization via Subnetwork-based Representation Learning Model. *IEEE Transactions on Cybernetics*, First round review. [[code](https://github.com/W1AE/SS-MSNN)]
-
 ## Downloads:
 ### Caltech-256
 * Caltech-256 dataset: [Caltech-256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/#Download)
