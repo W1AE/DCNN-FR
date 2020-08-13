@@ -14,10 +14,11 @@ Step 1 - Random learning with SGD. In each epoch, users randomly activate La num
 <img src="https://github.com/W1AE/DCNN-FR/blob/master/2.jpg" width="700" height="400" />
 Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \eta^{n-1} are obtained by Procedure I, while e^{n-1} and e^{n-2} are received via Procedure II. The details for Procedure I and II can be found from Algorithm 1.
 
+## Related Works:
+* Wandong Zhang, Q.M.Jonathan WU, and Yimin Yang. Multimodal feature reinforcement framework using Moore-Penrose Inverse for big data analysis. IEEE Transactions on Neural Networks and Learning Systems, Third round review. [code](http://www.vision.caltech.edu/Image_Datasets/Caltech256/#Download)
+
 ## Downloads:
 ### Caltech-256
 * Caltech-256 dataset: [Caltech-256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/#Download)
 * Code: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo.zip)
-
-## Related Works:
 
