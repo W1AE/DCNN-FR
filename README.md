@@ -18,4 +18,7 @@ Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \e
 ### Caltech-256
 * Caltech-256 dataset: [Caltech-256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/#Download)
 * Code: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo.zip)
+### Caltech-101
+* Caltech-256 dataset: [Caltech-101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/#Download)
+* Code: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo.zip)
 
