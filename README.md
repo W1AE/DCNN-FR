@@ -18,7 +18,7 @@ Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \e
 ### Caltech-256
 * Caltech-256 dataset: [Caltech-256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/#Download)
 * Code: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo0.zip)
-* Code for Author Response: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo1.zip)
+* Code for Reproducing Results in Author Response: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo1.zip)
 
 ## Dependencies:
 * Matlab version 2020a,
@@ -26,7 +26,7 @@ Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \e
 
 ## Reproduce the experimental results
 
-Run script "main_ResNet_ori.m" for original SGD optimization, "main_ResNet_ori_RL.m" for SGD plus random convolutional learning, "main_ResNet_FR.m" for Yang's retraining strategy, or "main_ResNet_FR_RL.m" in "Demo0.zip" for the proposed fast retraining algorithm (random SGD plus batch-by-batch MP).
+Run script "main_ResNet_ori.m" for original SGD optimization, "main_ResNet_ori_RL.m" for SGD plus random convolutional learning, "main_ResNet_FR.m" for Yang's retraining strategy, or "main_ResNet_FR_RL.m" for the proposed fast retraining algorithm (random SGD plus batch-by-batch MP).
 
 Run script "main1.m", "main2.m", "main3.m", "main4.m", "main5.m", "main6.m" in "Demo1.zip"for reproducing results reported in the author response letter.
 
