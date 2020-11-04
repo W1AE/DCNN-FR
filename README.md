@@ -6,6 +6,9 @@ Recent work [1] has utilized Moore-Penrose (MP) inverse in deep convolutional ne
 
 [1] Yimin Yang, Q.M.Jonathan Wu, et al., “Recomputation of dense layers for the performance improvement of dcnn,” IEEE Trans. Pattern Anal. Mach. Intell., 2019.
 
+## Full-text
+ArXiv: [Deep Networks with Fast Retraining](https://arxiv.org/abs/2008.07387)
+
 ## Learning Structure:
 
 <img src="https://github.com/W1AE/DCNN-FR/blob/master/1.jpg" width="700" height="400" />
