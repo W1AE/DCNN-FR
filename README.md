@@ -21,8 +21,8 @@ Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \e
 * Code for Author Response: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo1.zip)
 
 ## Dependencies:
-Matlab version 2020a,
-A workstation with a 256GB memory and an E5-2650 processor.
+* Matlab version 2020a,
+* A workstation with a 256GB memory and an E5-2650 processor.
 
 ## Reproduce the experimental results
 
