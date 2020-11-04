@@ -30,4 +30,4 @@ Run script "main_ResNet_ori.m" for original SGD optimization, "main_ResNet_ori_R
 
 Run script "main1.m", "main2.m", "main3.m", "main4.m", "main5.m", "main6.m" in "Demo1.zip"for reproducing results reported in the author response letter.
 
-#The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will also be made public.
+#The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.
