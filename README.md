@@ -20,6 +20,10 @@ Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \e
 * Code: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo0.zip)
 * Code for Author Response: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo1.zip)
 
+## Dependencies:
+Matlab version 2020a,
+A workstation with a 256GB memory and an E5-2650 processor.
+
 ## Reproduce the experimental results
 
 Run script "main_ResNet_ori.m" for original SGD optimization, "main_ResNet_ori_RL.m" for SGD plus random convolutional learning, "main_ResNet_FR.m" for Yang's retraining strategy, or "main_ResNet_FR_RL.m" for the proposed fast retraining algorithm (random SGD plus batch-by-batch MP).
