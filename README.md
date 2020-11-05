@@ -21,7 +21,7 @@ Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \e
 ### Caltech-256
 * Caltech-256 dataset: [Caltech-256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/#Download)
 * Code: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo0.zip)
-* Code for Reproducing Results in Author Response: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo1.zip)
+* Code for Reproducing Results in Response Letter: [Code-for-Caltech](https://github.com/wandongzhang/FR/blob/master/Demo1.zip)
 
 ## Dependencies:
 * Matlab version 2020a,
