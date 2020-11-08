@@ -31,6 +31,6 @@ Step 2 - Retraining with MP inverse-based batch-by-batch strategy. \eta^n and \e
 
 In "Demo0.zip", run script "main_ResNet_ori.m" for original SGD optimization, "main_ResNet_ori_RL.m" for SGD plus random convolutional learning, "main_ResNet_FR.m" for Yang's retraining strategy, or "main_ResNet_FR_RL.m" for the proposed fast retraining algorithm (random SGD plus batch-by-batch MP).
 
-Run script "main1.m", "main2.m", "main3.m", "main4.m", "main5.m", "main6.m" in "Demo1.zip"to reproduce results reported in the author response letter.
+Run script "main1.m", "main2.m", "main3.m", "main4.m", "main5.m", "main6.m" in "Demo1.zip"to reproduce results reported in the "Author Response" letter.
 
 #The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.
